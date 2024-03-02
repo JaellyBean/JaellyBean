@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JaellyBean
 - 👀 I’m interested in HTML, CSS, and Front-End Development
 - 🌱 I’m currently learning HTML, CSS, and Web Design
-- 💞️ I’m looking to collaborate on various web design projects
+- 💻 I’m looking to collaborate on various web design projects
 - 📫 How to reach me - jaellybean214@proton.me
 - 😄 Pronouns: he/him
 
