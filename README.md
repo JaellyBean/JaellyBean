@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, JavaScript and Front-End Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and React
 - 💻 I’m looking to collaborate on various web design projects
-- 📫 How to reach me - solarisrex@pm.me@proton.me
+- 📫 How to reach me - solarisrex@pm.me
 - 😄 Pronouns: he/him
 
 
